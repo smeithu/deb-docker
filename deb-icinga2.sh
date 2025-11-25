@@ -1,6 +1,6 @@
 #!/bin/bash
 # Icinga2 Monitoring Suite (Docker) telepítő szkript SMEITHu
-# Környezet: Debian 13 / Ubuntu 24.04 LTS alapú LXC/VM.
+# Környezet: Debian 13 LXC/VM.
 
 # --- Változók beállítása ---
 ICINGA_DIR="/opt/icinga2"
